@@ -1,0 +1,16 @@
+.info {
+  display: flex;
+  justify-content: space-between;
+}
+.info-menu img {
+  width: 20px;
+}
+
+.info-name {
+  display: center;
+  justify-content: center;
+}
+
+.info-icons img {
+  width: 20px;
+}
